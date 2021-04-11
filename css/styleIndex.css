@@ -1,0 +1,18 @@
+body 
+	{
+		margin-top: 50px;
+	}
+	
+	.formLogin
+	{
+		margin-top: 15px; 
+		background-color: #dcdde1;
+		padding: 32px;
+		margin: 5px;
+		border-radius: 7px;
+	}
+	
+	.fa-user-lock
+	{
+		font-size: 7rem;
+	}
