@@ -18,7 +18,6 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 ![image](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/002.jpg?raw=true)
 
-[![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/001.jpg?raw=true)](https://alexnetbeans.github.io/alexNetBeans/)
 
 * Código do Projeto [aqui](https://github.com/alexNetBeans/bancojs)
 
