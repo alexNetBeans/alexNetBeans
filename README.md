@@ -17,7 +17,7 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 * O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/MyCodes/)
 
 ![image](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/002.jpg?raw=true)
-
+* * *
 
 * Código do Projeto [aqui](https://github.com/alexNetBeans/bancojs)
 
