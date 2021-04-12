@@ -4,17 +4,17 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 **Segue alguns pequenos projetos que desenvolvi:**
 
-Código do Projeto [aqui](https://github.com/alexNetBeans/alexNetBeans)
+* Código do Projeto [aqui](https://github.com/alexNetBeans/alexNetBeans)
 
-O projeto pode ser acessado [aqui - ](https://alexnetbeans.github.io/alexNetBeans)
+* O projeto pode ser acessado [aqui - ](https://alexnetbeans.github.io/alexNetBeans)
 **Login:** admin
 **Senha:** 1234
 
 [![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/001.jpg?raw=true)](https://alexnetbeans.github.io/alexNetBeans/)
 
-Código do Projeto [aqui](https://github.com/alexNetBeans/MyCodes)
+* Código do Projeto [aqui](https://github.com/alexNetBeans/MyCodes)
 
-O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/MyCodes/)
+* O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/MyCodes/)
 
 ![image](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/002.jpg?raw=true)
 <!---
