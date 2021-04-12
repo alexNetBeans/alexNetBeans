@@ -4,7 +4,7 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 **Segue alguns pequenos projetos que desenvolvi:**
 
-![Gera uma simples nota de Serviços](https://www.bambui.ifmg.edu.br/portal_padrao_joomla/joomla/images/phocagallery/galeria2/thumbs/phoca_thumb_l_image03_grd.png)
+![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/001.jpg?raw=true)
 <!---
 alexNetBeans/alexNetBeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
