@@ -4,7 +4,7 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 **Segue alguns pequenos projetos que desenvolvi:**
 
-![Alt ou título da imagem](URL da imagem)
+![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/tree/main/images)
 
 
 
