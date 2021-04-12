@@ -9,7 +9,6 @@ O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/alexNetBeans)
 **Login:** admin
 
 **Senha:** 1234
-
 [![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/001.jpg?raw=true)](https://alexnetbeans.github.io/alexNetBeans/)
 
 
