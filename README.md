@@ -4,7 +4,7 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 **Segue alguns pequenos projetos que desenvolvi:**
 
-![Gera uma simples nota de Serviços](https://alexnetbeans.github.io/alexNetBeans/images/001.jpg)
+![Gera uma simples nota de Serviços]("https://alexnetbeans.github.io/alexNetBeans/images/001.jpg")
 
 
 
