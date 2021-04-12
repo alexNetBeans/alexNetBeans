@@ -4,9 +4,11 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 **Segue alguns pequenos projetos que desenvolvi:**
 
+O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/alexNetBeans)
+
 [![Gera uma simples nota de Serviços](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/001.jpg?raw=true)](https://alexnetbeans.github.io/alexNetBeans/)
 
-O projeto pode ser acessado [aqui](https://alexnetbeans.github.io/alexNetBeans)
+
 
 <!---
 alexNetBeans/alexNetBeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
