@@ -25,13 +25,6 @@ Olá, Eu me chamo Alex Sandro 👋🙂 !
 
 ![image](https://github.com/alexNetBeans/alexNetBeans/blob/main/images/003.jpg?raw=true)
 
-
-
-
-
-
-
-
 <!---
 alexNetBeans/alexNetBeans is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
