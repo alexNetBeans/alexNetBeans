@@ -2,7 +2,7 @@
 
 Olá, Eu me chamo Alex Sandro 👋🙂 !
 
-**Segue alguns pequenos projetos que desenvolvi:**
+**Segue alguns projetos que desenvolvi:**
 ##
 * Código do Projeto [aqui](https://github.com/alexNetBeans/alexNetBeans)
 
